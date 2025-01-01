@@ -25,6 +25,16 @@ Hi there! 👋 Welcome to my GitHub. This repository is dedicated to my ongoing 
 
 My name is Joseph (he/him). I'm currently focused on improving my skills in Python and gradually exploring the vast field of **Machine Learning**. My goal is to build projects that not only enhance my coding abilities but also lay the groundwork for building intelligent systems in the future.
 
+Random fact about me: I love frogs!
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://png.pngtree.com/thumb_back/fh260/background/20230424/pngtree-the-head-of-a-small-frog-with-big-yellow-flowers-image_2558584.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://png.pngtree.com/thumb_back/fh260/background/20230424/pngtree-the-head-of-a-small-frog-with-big-yellow-flowers-image_2558584.jpg">
+ <img alt="frog" src="https://png.pngtree.com/thumb_back/fh260/background/20230424/pngtree-the-head-of-a-small-frog-with-big-yellow-flowers-image_2558584.jpg">
+</picture>
+
+
+
 ### 🔥 What I'm Currently Learning:
 - **Python Programming**: Working on mastering the fundamentals and moving towards more advanced topics.
 - **Machine Learning**: Diving into ML algorithms, data analysis, and AI concepts to gain hands-on experience.
